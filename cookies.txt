@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.athoi21.xyz	TRUE	/	FALSE	1999999999	__cfduid	d10772dff0cba363cb58ac3d790a42e4d1598747337
+athoi21.xyz	TRUE	/	FALSE	1999999999	SameSite	Lax
+
